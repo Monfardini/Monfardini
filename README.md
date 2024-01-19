@@ -1,4 +1,6 @@
-### Olá, eu sou Gabriel Monfardini
+###  🇧🇷 Olá, eu sou Gabriel Monfardini
+###  󠁧󠁢󠁧󠁢󠁥󠁮🇬🇧 Hi, I'm Gabriel Monfardini
+###  🇳🇱 Hallo, Ik ben Gabriel Monfardini
 <div>
   <a href="https://github.com/Monfardini">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Monfardini&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
