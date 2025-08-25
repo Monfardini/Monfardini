@@ -18,7 +18,7 @@ Experimentation with new ideas 🔬
 
 ## 🌍 Find Me Around the Web
 
-<p align="left"> <a href="https://www.linkedin.com/in/gabrielmonfardini"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/biel_monfardini/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:monfardini22g@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/gabrielmonfardini"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/biel.monfardini/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:monfardini22g@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
 
 ## 💻 Tech Stack
